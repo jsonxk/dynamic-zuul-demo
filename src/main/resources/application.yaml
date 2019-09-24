@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dynamic-zuul-demo
+server:
+  port: 10001
+
